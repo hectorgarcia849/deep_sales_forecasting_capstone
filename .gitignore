@@ -1,2 +1,7 @@
 *.csv
 /data
+/clean
+/metastore_db
+/models
+/summary
+data_processing.py
