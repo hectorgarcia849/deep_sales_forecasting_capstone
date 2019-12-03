@@ -5,3 +5,6 @@
 /models
 /summary
 data_processing.py
+/exclude
+Deep Grocery Forecasting.pptx
+main.py

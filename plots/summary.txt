@@ -1,0 +1,17 @@
+1. Graph predictions for next step
+2. Graph learning rate
+
+
+EDA outputs:
+
+Unique items 3671
+
+
+std analysis:
+
+{'highest_std(Q95)': (1463797, 42.26034314183367),
+ 'lowest_std(Q5)': (1230461, 1.563456760755706),
+ 'median_std': (580929, 7.265907559138344),
+ 'mean_std': (111397, 14.388653833110155)}
+
+
